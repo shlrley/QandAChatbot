@@ -8,7 +8,7 @@ Visit the app here: [huggingface.co/spaces/shlrley/QandAChatbot](https://hugging
 
 ## About 
 
-**This project implements a Chatbot that users can ask simple questions to.** The responses are generated using the power of large language models (LLMs), specifically the `gpt-3.5-turbo-instruct` model from OpenAI. The app utilizes tools from the LangChain framework, and is deployed on Huggingface Spaces. 
+**This project implements a Chatbot that users can ask simple questions to.** The responses are generated using the power of large language models (LLMs), specifically the `gpt-3.5-turbo-instruct` model from OpenAI. The app utilizes tools from the LangChain framework for the LLMs, uses Streamlit to build the interface, and is deployed on Huggingface Spaces. 
 
 This project was created by following this [tutorial](https://www.youtube.com/watch?v=qMIM7dECAkc&list=PLZoTAELRMXVORE4VF7WQ_fAl0L1Gljtar&index=5) by Krish Naik on YouTube. 
 
