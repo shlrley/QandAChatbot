@@ -1,9 +1,9 @@
-# Simple Q and A Chatbot
+# Simple Q and A Chatbot 💬
 
 
 ![QandA](https://github.com/shlrley/QandAChatbot/assets/70875076/93c39c52-8ad3-491a-803e-4b6c7e26aed2)
 
-Visit the page here: [huggingface.co/spaces/shlrley/QandAChatbot](https://huggingface.co/spaces/shlrley/QandAChatbot)
+Visit the app here: [huggingface.co/spaces/shlrley/QandAChatbot](https://huggingface.co/spaces/shlrley/QandAChatbot)
 
 
 ## About 
