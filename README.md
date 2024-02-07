@@ -53,7 +53,7 @@ $ streamlit run app.py
 
 *To tun the Jupyter Lab Notebook (Optional):*
 
-5. Open the Jupyter Lab notebook, and make sure the correct environment is chosen (top right, `venv`)
+5. Open the [Jupyter Lab notebook](langchain.ipynb), and make sure the correct environment is chosen (top right, `venv`)
 
 6. Replace the `"ENTER-YOUR-API-KEY-HERE"` sections with your own OpenAI and Huggingface api keys (see [steps.md](/steps.md) for more details) 
 
